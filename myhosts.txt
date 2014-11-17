@@ -1854,6 +1854,11 @@
 96.127.160.130	web9.twitpic.com
 96.127.160.130	web10.twitpic.com
 #Twitter END
+
+#GoogleGCM
+202.65.246.80 www.google.com.hk
+64.233.182.188 mtalk.google.com
+
 #Google Services START
 #GoogleAccounts↓
 173.194.65.84	accounts.google.com
