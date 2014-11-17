@@ -1937,10 +1937,10 @@
 74.125.29.189	27.client-channel.google.com
 74.125.29.189	28.client-channel.google.com
 74.125.29.189	29.client-channel.google.com
-#74.125.196.188	mtalk.google.com
-#74.125.196.188	talk.google.com
-#74.125.196.188	talkx.l.google.com
-#74.125.196.188	talk.l.google.com
+74.125.196.188	mtalk.google.com
+74.125.196.188	talk.google.com
+74.125.196.188	talkx.l.google.com
+74.125.196.188	talk.l.google.com
 64.233.182.211	proxy.googlezip.net
 64.233.182.211	ext.google.com
 #Android↑
