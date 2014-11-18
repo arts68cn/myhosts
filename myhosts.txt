@@ -1,4 +1,4 @@
-#+UPDATE_TIME 2014-11-18 10:45:00 GR
+#+UPDATE_TIME 2014-11-18 11:15:00 GR
 
 #localhost START
 127.0.0.1	localhost
@@ -1857,7 +1857,7 @@
 
 #GoogleGCM
 #202.65.246.80 www.google.com.hk
-64.233.182.188 mtalk.google.com
+#64.233.182.188 mtalk.google.com
 
 #Google Services START	
 #GoogleAccounts↓	
@@ -1942,10 +1942,10 @@
 210.242.125.89	27.client-channel.google.com
 210.242.125.89	28.client-channel.google.com
 210.242.125.89	29.client-channel.google.com
-#210.242.125.89	mtalk.google.com
-#210.242.125.89	talk.google.com
-#210.242.125.89	talkx.l.google.com
-#210.242.125.89	talk.l.google.com
+173.194.72.188	mtalk.google.com
+173.194.72.125	talk.google.com
+74.125.25.125	talkx.l.google.com
+74.125.31.125	talk.l.google.com
 210.242.125.89	proxy.googlezip.net
 210.242.125.89	ext.google.com
 #Android↑	
@@ -2384,8 +2384,8 @@
 #74.125.230.121	chromium.org
 #74.125.230.121	codereview.chromium.org
 #74.125.230.121	dev.chromium.org
-#23.41.57.180	mobile.l.google.com
-#23.41.57.180	mobile-gtalk.l.google.com
+173.194.72.193 	mobile.l.google.com
+173.194.72.188	mobile-gtalk.l.google.com
 210.242.125.89	plus.google.com
 210.242.125.89	plus.url.google.com
 210.242.125.89	plusone.google.com
