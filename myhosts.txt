@@ -1946,8 +1946,6 @@
 74.125.31.188	talk.google.com
 74.125.31.188	talkx.l.google.com
 74.125.31.188	talk.l.google.com
-74.125.237.192    hangouts.google.com
-74.125.237.192    hangout.google.com
 210.242.125.89	proxy.googlezip.net
 210.242.125.89	ext.google.com
 #Android↑	
@@ -2386,8 +2384,8 @@
 #74.125.230.121	chromium.org
 #74.125.230.121	codereview.chromium.org
 #74.125.230.121	dev.chromium.org
-74.125.68.251 	mobile.l.google.com
-74.125.68.251	  mobile-gtalk.l.google.com
+64.233.186.188 	mobile.l.google.com
+64.233.186.188	  mobile-gtalk.l.google.com
 210.242.125.89	plus.google.com
 210.242.125.89	plus.url.google.com
 210.242.125.89	plusone.google.com
