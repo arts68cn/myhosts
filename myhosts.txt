@@ -1942,12 +1942,12 @@
 210.242.125.89	27.client-channel.google.com
 210.242.125.89	28.client-channel.google.com
 210.242.125.89	29.client-channel.google.com
-74.125.68.251	mtalk.google.com
-74.125.68.251	talk.google.com
-74.125.68.251	talkx.l.google.com
-74.125.68.251	talk.l.google.com
-74.125.68.251    hangouts.google.com
-74.125.68.251    hangout.google.com
+74.125.31.188	mtalk.google.com
+74.125.31.188	talk.google.com
+74.125.31.188	talkx.l.google.com
+74.125.31.188	talk.l.google.com
+74.125.237.192    hangouts.google.com
+74.125.237.192    hangout.google.com
 210.242.125.89	proxy.googlezip.net
 210.242.125.89	ext.google.com
 #Android↑	
