@@ -1,4 +1,4 @@
-#+UPDATE_TIME 2014-11-18 11:15:00 GR
+#+UPDATE_TIME 2014-11-19 11:15:00 GR
 
 #localhost START
 127.0.0.1	localhost
@@ -1942,10 +1942,12 @@
 210.242.125.89	27.client-channel.google.com
 210.242.125.89	28.client-channel.google.com
 210.242.125.89	29.client-channel.google.com
-173.194.72.188	mtalk.google.com
-173.194.72.125	talk.google.com
-74.125.25.125	talkx.l.google.com
-74.125.31.125	talk.l.google.com
+74.125.68.251	mtalk.google.com
+74.125.68.251	talk.google.com
+74.125.68.251	talkx.l.google.com
+74.125.68.251	talk.l.google.com
+74.125.68.251    hangouts.google.com
+74.125.68.251    hangout.google.com
 210.242.125.89	proxy.googlezip.net
 210.242.125.89	ext.google.com
 #Android↑	
@@ -2384,8 +2386,8 @@
 #74.125.230.121	chromium.org
 #74.125.230.121	codereview.chromium.org
 #74.125.230.121	dev.chromium.org
-173.194.72.193 	mobile.l.google.com
-173.194.72.188	mobile-gtalk.l.google.com
+74.125.68.251 	mobile.l.google.com
+74.125.68.251	  mobile-gtalk.l.google.com
 210.242.125.89	plus.google.com
 210.242.125.89	plus.url.google.com
 210.242.125.89	plusone.google.com
