@@ -1,4 +1,4 @@
-#+UPDATE_TIME 2014-11-19 11:15:00 GR
+#+UPDATE_TIME 2014-11-20 13:15:00 GR
 
 #localhost START
 127.0.0.1	localhost
@@ -1942,14 +1942,14 @@
 210.242.125.89	27.client-channel.google.com
 210.242.125.89	28.client-channel.google.com
 210.242.125.89	29.client-channel.google.com
-74.125.31.188	mtalk.google.com
-74.125.31.188	talk.google.com
-74.125.31.188	talkx.l.google.com
-74.125.31.188	talk.l.google.com
-74.125.31.188 mobile.l.google.com
-74.125.31.188	mobile-gtalk.l.google.com
-210.242.125.89	proxy.googlezip.net
-210.242.125.89	ext.google.com
+210.242.125.98	mtalk.google.com
+210.242.125.98	talk.google.com
+210.242.125.98	talkx.l.google.com
+210.242.125.98	talk.l.google.com
+210.242.125.98 mobile.l.google.com
+210.242.125.98	mobile-gtalk.l.google.com
+210.242.125.98	proxy.googlezip.net
+210.242.125.98	ext.google.com
 #Android↑	
 #GoogleDrive↓	
 210.242.125.89	drive.google.com
