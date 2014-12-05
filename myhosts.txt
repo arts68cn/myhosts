@@ -3897,7 +3897,7 @@ fe80::1%lo0	localhost
 74.125.230.0	base3.googlehosted.com
 74.125.230.0	base4.googlehosted.com
 74.125.230.0	base5.googlehosted.com
-74.125.230.0	mtalk.google.com
+#74.125.230.0	mtalk.google.com
 74.125.230.0	talk.google.com
 74.125.230.0	talk.l.google.com
 74.125.230.0	ytimg.l.google.com
