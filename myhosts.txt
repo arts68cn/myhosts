@@ -1,4 +1,4 @@
-#+UPDATE_TIME 2015-2-8 13:00:00 myhosts
+#+UPDATE_TIME 2015-5-16 13:00:00 myhosts
 
 #Current Version 9.0
 #Newest version at http://go.netsh.org/link/gethosts
@@ -1336,119 +1336,7 @@ fe80::1%lo0	localhost
 91.198.174.192	www.mediawiki.org
 #END wk
 
-#Twitter START
-199.16.158.104	twitter.com
-199.16.158.104	www.twitter.com
-199.16.158.13	mobile.twitter.com
-199.16.158.9	api.twitter.com
-199.16.158.19	urls-real.api.twitter.com
-199.16.158.108	t.co
-199.16.158.11	tweetdeck.com
-199.16.158.11	tdweb.twitter.com
-199.16.158.11	api.tweetdeck.com
-199.16.158.11	downloads.tweetdeck.com
-199.16.158.11	tweetdeck.twitter.com
-199.16.158.11	web.tweetdeck.com
-199.16.158.11	www.tweetdeck.com
-23.44.161.224	p.twitter.com
-23.44.161.224	cdn.api.twitter.com
-23.44.161.224	platform.twitter.com
-23.44.161.224	preview.cdn.twitter.com
-199.16.158.18	image-proxy-origin.twimg.com
-199.59.150.46	syndication.twitter.com
-199.59.150.46	syndication.twimg.com
-199.59.150.46	cdn.syndication.twitter.com
-199.59.150.46	cdn.syndication.twimg.com
-199.59.150.46	syndication-o.twitter.com
-199.59.150.46	syndication-o.twimg.com
-117.18.237.139	a0.twimg.com
-117.18.237.139	a1.twimg.com
-117.18.237.139	p.twimg.com
-199.16.158.15	r.twimg.com
-117.18.237.139	si0.twimg.com
-117.18.237.139	si1.twimg.com
-117.18.237.139	si2.twimg.com
-117.18.237.139	si3.twimg.com
-117.18.237.139	si4.twimg.com
-117.18.237.139	si5.twimg.com
-199.16.158.14	support.twitter.com
-199.16.158.10	blog.twitter.com
-199.16.158.10	about.twitter.com
-199.16.158.10	pic.twitter.com
-199.16.158.10	stream.twitter.com
-199.16.158.10	sitestream.twitter.com
-199.16.158.10	betastream.twitter.com
-199.16.158.20	upload.twitter.com
-199.16.158.10	dev.twitter.com
-199.16.158.1041	userstream.twitter.com
-96.127.160.130	twitpic.com
-96.127.160.130	web1.twitpic.com
-96.127.160.130	web2.twitpic.com
-96.127.160.130	web3.twitpic.com
-96.127.160.130	web4.twitpic.com
-96.127.160.130	web5.twitpic.com
-96.127.160.130	web6.twitpic.com
-96.127.160.130	web7.twitpic.com
-96.127.160.130	web8.twitpic.com
-96.127.160.130	web9.twitpic.com
-96.127.160.130	web10.twitpic.com
-#Twitter END
 
-#Facebook Start
-#69.171.237.25	facebook.com
-#69.171.237.25	www.facebook.com
-#69.171.237.23	m.facebook.com
-#69.171.237.25	d.facebook.com
-#69.171.237.25	touch.facebook.com
-#69.171.237.25	zh-CN.facebook.com
-#69.171.237.25	ldap.thefacebook.com
-#69.171.237.25	graph.facebook.com
-#69.171.237.25	vupload.facebook.com
-#69.171.237.25	developers.facebook.com
-#69.171.237.25	connect.facebook.net
-#69.171.237.25	creativeupload.facebook.com
-#69.171.237.25	upload.facebook.com
-#69.171.237.25	bigzipfiles.facebook.com
-#69.171.237.25	star.facebook.com
-#69.171.235.13	bigzipfiles.facebook.com
-#31.13.82.32	api.facebook.com
-#173.252.120.8 b-api.facebook.com
-#31.13.82.32	api-read.facebook.com
-#31.13.82.32	apps.facebook.com
-#31.13.82.32	pixel.facebook.com
-#31.13.82.32	ssl.facebook.com
-#31.13.82.32	secure.facebook.com
-#31.13.82.32	orcart.facebook.com
-#31.13.82.32	attachments.facebook.com
-#69.171.237.25	vpn.tfbnw.net
-#61.213.189.113	fbcdn.net
-#61.213.189.113	s-hprofile-sf2p.fbcdn.net
-#61.213.189.114	profile.ak.fbcdn.net
-#61.213.189.120	b.static.ak.fbcdn.net
-#61.213.189.98	b.static.ak.facebook.com
-#23.5.157.177	s-static.ak.fbcdn.net
-#184.26.194.110	s-static.ak.facebook.com
-#69.171.247.22	s-static.facebook.com
-#61.213.189.98	static.ak.facebook.com
-#61.213.189.113	creative.ak.fbcdn.net
-#23.3.68.113	external.ak.fbcdn.net
-#31.13.77.89	ent-a.xx.fbcdn.net
-#31.13.77.89	ent-b.xx.fbcdn.net
-#31.13.77.89	ent-c.xx.fbcdn.net
-#31.13.77.89	ent-d.xx.fbcdn.net
-#31.13.77.89	ent-e.xx.fbcdn.net
-#31.13.77.89	ent-a.xy.fbcdn.net
-#31.13.77.89	ent-b.xy.fbcdn.net
-#31.13.77.89	ent-c.xy.fbcdn.net
-#31.13.77.89	ent-d.xy.fbcdn.net
-#31.13.77.89	ent-e.xy.fbcdn.net
-#31.13.70.56	scontent-a.xx.fbcdn.net
-#31.13.70.56	scontent-b.xx.fbcdn.net
-#31.13.70.56	scontent-c.xx.fbcdn.net
-#31.13.70.56	scontent-d.xx.fbcdn.net
-#31.13.70.56	scontent-e.xx.fbcdn.net
-#42.99.128.137	fbcdn-profile-a.akamaihd.net
-#Facebook END
 
 
 
@@ -1626,23 +1514,79 @@ fe80::1%lo0	localhost
 116.251.210.52 www.yyets.com
 104.194.230.154 js.yyets.com
 
-#FlipBoard START
-54.235.95.183	beacon.flipboard.com
-54.230.150.180	cdn.flipboard.com
-54.243.118.197	fbprod.flipboard.com
-54.243.94.25	ue.flipboard.com
-54.243.94.25	fbprod7-1421169776.us-east-1.elb.amazonaws.com
-#FlipBoard END
+#Flickr
+67.195.51.192c1.staticflickr.com
+67.195.51.192c2.staticflickr.com
+67.195.51.192c3.staticflickr.com
+67.195.51.192c4.staticflickr.com
+67.195.51.192c.staticflickr.com
+23.218.140.209yui-s.yahooapis.com
+69.147.76.173flickr.com
+124.108.101.10http://www.flickr.com
+216.115.100.102s.yimg.com
+208.71.44.31m.flickr.com
+106.10.137.23farm1.staticflickr.com
+98.139.18.218bf1.farm1.staticflickr.com
+68.142.214.43mud.farm1.staticflickr.com
+77.238.160.184ch1.farm1.staticflickr.com
+106.10.137.23sg3.farm1.staticflickr.com
+106.10.137.23farm2.staticflickr.com
+98.139.18.219bf1.farm2.staticflickr.com
+69.147.90.159sp1.farm2.staticflickr.com
+77.238.160.184ch1.farm2.staticflickr.com
+106.10.137.23sg3.farm2.staticflickr.com
+106.10.137.23farm3.staticflickr.com
+76.13.18.78ac4.farm3.staticflickr.com
+69.147.90.215sp1.farm3.staticflickr.com
+77.238.160.184ch1.farm3.staticflickr.com
+106.10.137.123sg3.farm3.staticflickr.com
+106.10.137.23farm4.staticflickr.com
+76.13.18.77ac4.farm4.staticflickr.com
+67.195.19.66gq1.farm4.staticflickr.com
+77.238.169.184ch1.farm4.staticflickr.com
+106.10.137.23sg3.farm4.staticflickr.com
+106.10.137.23farm5.staticflickr.com
+76.13.18.79ac4.farm5.staticflickr.com
+67.195.19.74gq1.farm5.staticflickr.com
+77.238.160.184ch1.farm5.staticflickr.com
+106.10.137.23sg3.farm5.staticflickr.com
+106.10.137.23farm6.staticflickr.com
+98.139.197.254bf1.farm6.staticflickr.com
+98.136.170.121gq1.farm6.staticflickr.com
+77.238.160.184ch1.farm6.staticflickr.com
+106.10.137.23sg3.farm6.staticflickr.com
+106.10.137.23farm7.staticflickr.com
+98.139.102.46bf1.farm7.staticflickr.com
+98.138.8.116ne1.farm7.staticflickr.com
+77.238.160.184ch1.farm7.staticflickr.com
+106.10.137.23sg3.farm7.staticflickr.com
+106.10.137.23farm8.staticflickr.com
+98.137.200.139bf1.farm8.staticflickr.com
+98.136.240.40gq1.farm8.staticflickr.com
+77.238.160.184ch1.farm8.staticflickr.com
+106.10.137.23sg3.farm8.staticflickr.com
+106.10.137.23farm9.staticflickr.com
+98.137.205.126bf1.farm9.staticflickr.com
+98.136.248.103gq1.farm9.staticflickr.com
+77.238.160.184ch1.farm9.staticflickr.com
+106.10.137.23sg3.farm9.staticflickr.com
+106.10.137.23static.flickr.com
+119.161.24.27http://www.flickr.com
+121.101.144.112api.flickr.com
+119.161.24.27up.flickr.com
+203.84.208.52l.yimg.com
+208.71.44.31secure.flickr.com
+#Flickr end
 
 #GoogleGCM
 #202.65.246.80 www.google.com.hk
 #64.233.182.188 mtalk.google.com
-#64.233.185.188 mtalk.google.com
+64.233.185.188 mtalk.google.com
 #64.233.186.188 mtalk.google.com
-173.194.120.70  hangout.google.com
-173.194.120.70  hangouts.google.com
-173.194.120.74  www-hangouts-opensocial.googleusercontent.com
-173.194.120.74    9gbg8d94v5ctadt6ar5f0cgi03hatscu-a-hangout-opensocial.googleusercontent.com
+64.233.186.139  hangout.google.com
+64.233.186.102 hangouts.google.com
+64.233.186.132  www-hangouts-opensocial.googleusercontent.com
+64.233.186.132    9gbg8d94v5ctadt6ar5f0cgi03hatscu-a-hangout-opensocial.googleusercontent.com
 
 #Google Services start
 64.233.189.118    0.docs.google.com
