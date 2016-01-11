@@ -1518,6 +1518,7 @@ fe80::1%lo0	localhost
 208.71.44.30 www.flickr.com
 208.71.44.30 up.flickr.com
 124.108.101.10 api.flickr.com
+203.84.216.121 m.flickr.com
 #Flickr end
 
 #GoogleGCM
